@@ -1,5 +1,5 @@
 # Patent
-MEMS patent 
+MEMS patent, Germany DE4332653, September 1994 
 
 https://tfconsult.com/mems-patent/
 
