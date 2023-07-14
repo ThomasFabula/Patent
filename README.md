@@ -1,25 +1,25 @@
 # Patent
 MEMS patent, Germany DE4332653, September 1994 
 
-https://tfconsult.com/mems-patent/
+- https://tfconsult.com/mems-patent/
 
 Monolithically integrated semiconductor element, use thereof and method for producing such a semiconductor element
 Invention DE4332653 (C1)
 
-Germany DE4332653, 
-September 1994
+- Germany DE4332653, 
+- September 1994
 
-https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=19940901&DB=EPODOC&locale=en_EP&CC=DE&NR=4332653C1&KC=C1&ND=4
+- https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=19940901&DB=EPODOC&locale=en_EP&CC=DE&NR=4332653C1&KC=C1&ND=4
 
 Inventor(s):	
 
-ALAVI MANI DIPL ING DR [DE]; 
+- ALAVI MANI DIPL ING DR [DE]; 
 
-FABULA THOMAS DIPL PHYS [DE]; 
+- FABULA THOMAS DIPL PHYS [DE]; 
 
-SCHUMACHER AXEL DIPL PHYS [DE]; 
+- SCHUMACHER AXEL DIPL PHYS [DE]; 
 
-WAGNER HANS-JOACHIM DIPL PHYS [DE]
+- WAGNER HANS-JOACHIM DIPL PHYS [DE]
 
 
 Application number:	
