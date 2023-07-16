@@ -11,7 +11,7 @@ Invention DE4332653 (C1)
 
 - https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=19940901&DB=EPODOC&locale=en_EP&CC=DE&NR=4332653C1&KC=C1&ND=4
 
-Inventor(s):	
+## Inventor(s):	
 
 - ALAVI MANI DIPL ING DR [DE]; 
 
