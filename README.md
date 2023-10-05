@@ -29,5 +29,5 @@ The monolithically integrated semiconductor element has a bar structure arranged
 ## Further information
 - https://tfconsult.com/mems-patent/
 - https://patents.google.com/patent/DE4332653C1/un
-- 
+
 
