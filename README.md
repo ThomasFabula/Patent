@@ -9,14 +9,14 @@
 - DE: Monolithisch integriertes Halbleiterelement, dessen Verwendung sowie Verfahren zur Herstellung eines solchen Halbleiterelements
 - Invention No: DE4332653 (C1)
 
-## Link
+## Espacenet Link
 - https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=19940901&DB=EPODOC&locale=en_EP&CC=DE&NR=4332653C1&KC=C1&ND=4
 
 ## Inventor(s)	
-- ALAVI MANI DIPL ING DR [DE]; 
-- FABULA THOMAS DIPL PHYS [DE]; 
-- SCHUMACHER AXEL DIPL PHYS [DE]; 
-- WAGNER HANS-JOACHIM DIPL PHYS [DE]
+- ALAVI, MANI, DIPL.-ING., Dr.rer.nat. [DE]; 
+- FABULA, THOMAS, DIPL.-PHYS. [DE]; 
+- SCHUMACHER, AXEL, DIPL.-PHYS. [DE]; 
+- WAGNER, HANS-JOACHIM, DIP.-PHYS. [DE]
 
 ## Application number	
 - DE19934332653 19930924 
