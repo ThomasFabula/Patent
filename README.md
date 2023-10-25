@@ -13,13 +13,13 @@
 - https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=19940901&DB=EPODOC&locale=en_EP&CC=DE&NR=4332653C1&KC=C1&ND=4
 
 ## Inventors	
-- ALAVI, MANI, DIPL.-ING., Dr.rer.nat. [DE]; 
-- FABULA, THOMAS, DIPL.-PHYS. [DE]; 
-- SCHUMACHER, AXEL, DIPL.-PHYS. [DE]; 
-- WAGNER, HANS-JOACHIM, DIPL.-PHYS. [DE]
+- ALAVI, Mani, DIPL.-ING., Dr.rer.nat. [DE]; 
+- FABULA, Thomas, DIPL.-PHYS. [DE]; 
+- SCHUMACHER, Axel, DIPL.-PHYS. [DE]; 
+- WAGNER, Hans-Joachim, DIPL.-PHYS. [DE]
 
 ## Application number	
-- DE19934332653 19930924 
+- DE19934332653 1993-09-24 
 
 ## Abstract 
 ### Patent DE4332653 (C1)
