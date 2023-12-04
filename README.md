@@ -5,9 +5,12 @@
 - September 1994 
 
 ## Title
-- EN: Monolithically integrated semiconductor element, use thereof and method for producing such a semiconductor element
-- DE: Monolithisch integriertes Halbleiterelement, dessen Verwendung sowie Verfahren zur Herstellung eines solchen Halbleiterelements
--- Invention No: DE4332653 (C1)
+### ENGLISH
+- Monolithically integrated semiconductor element, use thereof and method for producing such a semiconductor element
+### DEUTSCH
+- Monolithisch integriertes Halbleiterelement, dessen Verwendung sowie Verfahren zur Herstellung eines solchen Halbleiterelements
+### Invention No: 
+- DE4332653 (C1)
 
 ## Espacenet 
 - https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=19940901&DB=EPODOC&locale=en_EP&CC=DE&NR=4332653C1&KC=C1&ND=4
@@ -33,5 +36,3 @@ Das monolithisch integrierte Halbleiterelement hat eine über einer Membran ange
 ## Further information
 - https://tfconsult.com/mems-patent/
 - https://patents.google.com/patent/DE4332653C1/un
-
-
