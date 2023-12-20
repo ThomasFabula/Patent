@@ -15,11 +15,14 @@
 ## Espacenet 
 - https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=19940901&DB=EPODOC&locale=en_EP&CC=DE&NR=4332653C1&KC=C1&ND=4
 
+## Patent holder 
+Hanh-Schickard-Gesellschaft für Angewandte Forschung e.V., 78052 Villingen-Schwenningen, DE
+
 ## Inventors	
-- ALAVI, Mani, DIPL.-ING., Dr.rer.nat. [DE]; 
-- FABULA, Thomas, DIPL.-PHYS. [DE]; 
-- SCHUMACHER, Axel, DIPL.-PHYS. [DE]; 
-- WAGNER, Hans-Joachim, DIPL.-PHYS. [DE]
+- ALAVI, Mani, Dipl.-Ing., Dr.rer.nat. [DE]; 78050 Villingen-Schwenningen, DE
+- FABULA, Thomas, Dipl.-Phys. [DE]; 78073 Bad Dürrheim, DE
+- SCHUMACHER, Axel, Dipl.-Phys. [DE]; 78083 Dauchingen, DE
+- WAGNER, Hans-Joachim, Dipl.-Phys. [DE]; 78098 Freiburg, DE
 
 ## Application number	
 - DE19934332653 1993-09-24 
