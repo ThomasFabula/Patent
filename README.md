@@ -16,9 +16,9 @@
 - https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=19940901&DB=EPODOC&locale=en_EP&CC=DE&NR=4332653C1&KC=C1&ND=4
 
 ## Patent holder 
-Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V. 
-78052 Villingen-Schwenningen, DE
-https://www.hahn-schickard.de/
+- Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V. 
+- 78052 Villingen-Schwenningen, DE
+- https://www.hahn-schickard.de/
 
 ## Inventors	
 - ALAVI, Mani, Dipl.-Ing., Dr.rer.nat. [DE]; 78050 Villingen-Schwenningen, DE
