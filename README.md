@@ -44,7 +44,6 @@ Das monolithisch integrierte Halbleiterelement hat eine über einer Membran ange
 - https://link.springer.com/article/10.1007/BF01371494#page-1
 - https://dl.acm.org/doi/abs/10.1007/BF01371494
 - https://www.sciencedirect.com/science/article/abs/pii/092442479380112T
-- 
-- 
+ 
 
 
