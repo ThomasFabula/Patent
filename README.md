@@ -26,6 +26,11 @@
 - SCHUMACHER, Axel, Dipl.-Phys. [DE]; 78083 Dauchingen, 
 - WAGNER, Hans-Joachim, Dipl.-Phys. [DE]; 78098 Freiburg,
 
+## Current Assignee 
+- Alavi, Mani, Dr, 78050 Villingen-Schwenningen, De 
+- Fabula, Thomas, Dr, 50997 Koeln, De 
+- SCHEITHAUER, MANFRED, 78073 Bad Dürrheim, DE
+
 ## Application number	
 - DE19934332653 1993-09-24 
 
