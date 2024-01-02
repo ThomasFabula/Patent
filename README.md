@@ -41,3 +41,6 @@ Das monolithisch integrierte Halbleiterelement hat eine über einer Membran ange
 ## Further information
 - https://tfconsult.com/mems-patent/
 - https://patents.google.com/patent/DE4332653C1/un
+- https://link.springer.com/article/10.1007/BF01371494#page-1
+
+
