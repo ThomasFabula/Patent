@@ -17,7 +17,7 @@
 
 ## Patent holder 
 - Hahn-Schickard-Gesellschaft für Angewandte Forschung e.V. 
-- 78052 Villingen-Schwenningen, DE
+- D-78052 Villingen-Schwenningen, Germany
 - https://www.hahn-schickard.de/
 
 ## Inventors	
