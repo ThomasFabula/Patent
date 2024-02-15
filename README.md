@@ -29,7 +29,7 @@
 ## Current Assignee 
 - ALAVI, Mani, Dr.rer.nat., 78050 Villingen-Schwenningen, DE 
 - FABULA, Thomas, Dr.rer.nat., 50997 Köln, DE
-- SCHEITHAUER, Manfred, 78073 Bad Dürrheim, DE
+- SCHEITHAUER, Manfred, Dipl.-Phys., 78073 Bad Dürrheim, DE
 
 ## Application number	
 - DE19934332653 1993-09-24 
