@@ -1,7 +1,8 @@
 Literaturverzeichnis zu BOD-Sensoren:  
-(Datei / file: BOD.LIT, 
-Date / Stand: 05.07.1994
-LaTeX-Version)
+-------------------------------------
+Datei / file: BOD.LIT 
+Stand / date: 1994-07-05
+LaTeX-Version
 -------------------------------------
 
 \bibitem [Alavi 94] {Ala94}
@@ -29,7 +30,7 @@ LaTeX-Version)
  31 (1992) 215--219
 
 \bibitem  [DRUCK 91] {DRUCK}
- DRUCK Ltd., Firetree Lane, Groby, Leicester/GB, Datenbl„tter:
+ DRUCK Ltd., Firetree Lane, Groby, Leicester/GB, Datenblätter:
  RPT 100 ~-~Resonant pressure sensor (1991)
 
 \bibitem  [Greenwood 84] {Gre84}
@@ -130,3 +131,4 @@ LaTeX-Version)
  J.D. Zook, D.W. Burns, H. Guckel, J.J. Sniegowski, R.L. Engelstad, Z. Feng
  Resonant microbeam strain transducer, Proc. of the TRANSDUCERS '91
  (1991) 529--532
+
