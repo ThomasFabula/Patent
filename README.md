@@ -27,8 +27,8 @@
 - WAGNER, Hans-Joachim, Dipl.-Phys. [DE]; 78098 Freiburg,
 
 ## Current Assignee 
-- ALAVI, Mani, Dr.rer.nat., 78050 Villingen-Schwenningen, DE 
-- FABULA, Thomas, Dr.rer.nat., 50997 Köln, DE
+- ALAVI, Mani, Dr.rer.nat., Dipl.-Ing., 78050 Villingen-Schwenningen, DE 
+- FABULA, Thomas, Dr.rer.nat., Dipl.-Phys., 50997 Köln, DE
 - SCHEITHAUER, Manfred, Dipl.-Phys., 78073 Bad Dürrheim, DE
 
 ## Application number	
