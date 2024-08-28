@@ -2,14 +2,25 @@ Monolithically integrated semiconductor element, use thereof and method for prod
 
 http://worldwide.espacenet.com/publicationDetails/biblio?CC=DE&KC=C1&ND=4&FT=D&DB=EPODOC&NR=4332653C1&bcId=0&return=true&date=19940901&locale=en_EP
 
-Page bookmark DE4332653  (C1)  -  Monolithically integrated semiconductor element, use thereof and method for producing such a semiconductor element Inventor(s): ALAVI MANI DIPL ING DR [DE]; FABULA THOMAS DIPL PHYS [DE]; SCHUMACHER AXEL DIPL PHYS [DE]; WAGNER HANS-JOACHIM DIPL PHYS [DE] + Applicant(s): HAHN SCHICKARD GES [DE] + Classification: 
-- international:	G01L9/00; G01P15/08; G01P15/09; G01P15/12; G01P15/125; (IPC1-7): G01L1/00; G01L9/00; G01P15/00; H01L21/308; H01L49/00 
-- European:	G01L9/00A10D; G01L9/00D1; G01P15/08; G01P15/08A; G01P15/08F; G01P15/09; G01P15/125; G01P15/12D 
+Page bookmark DE4332653  (C1)  -  Monolithically integrated semiconductor element, use thereof and method for producing such a semiconductor element Inventor(s): 
+ALAVI MANI DIPL ING DR [DE]; 
+FABULA THOMAS DIPL PHYS [DE]; 
+SCHUMACHER AXEL DIPL PHYS [DE]; 
+WAGNER HANS-JOACHIM DIPL PHYS [DE] 
++ Applicant(s): 
+HAHN SCHICKARD GES [DE] + Classification: 
+
+- international:	
+G01L9/00; G01P15/08; G01P15/09; G01P15/12; G01P15/125; (IPC1-7): G01L1/00; G01L9/00; G01P15/00; H01L21/308; H01L49/00 
+- European:	
+G01L9/00A10D; G01L9/00D1; G01P15/08; G01P15/08A; G01P15/08F; G01P15/09; G01P15/125; G01P15/12D 
 
 Application number: DE19934332653 19930924  Priority number(s): DE19934332653 19930924
 
 Abstract
 The monolithically integrated semiconductor element has a bar structure arranged over a diaphragm and located on support webs. The diaphragm, support webs and bar structure are integrally formed from a common semiconductor substrate and have edge faces which are defined by differential etching rates in different crystal orientations of the semiconductor substrate. Such a semiconductor element is produced by applying a mask layer onto opposite surfaces of a semiconductor substrate having a predetermined crystal orientation, subsequent uniform planar destruction or partial destruction of the crystal structure followed by anisotropic etching until the bar structure has been uncovered by etching and a diaphragm with a predetermined thickness remains under the bar. A monocrystalline silicon substrate with a <110> surface crystal orientation has proved particularly suitable. The monolithically integrated semiconductor element according to the invention is, in particular, suitable for use as a sensor or electromechanical transducer.
+
+
 Description
 Die Erfindung betrifft ein monolithisch integriertes Halbleiterelement gemäss den Merkmalen des Oberbegriffs des Anspruchs 1, dessen Verwendung sowie ein Verfahren zur Herstellung eines solchen Halbleiterelementes. 
 
@@ -202,7 +213,7 @@ Claims
 - anisotropes Ätzen, bis die Balkenstruktur (10) freigeätzt ist und unter der Balkenstruktur (10) eine Membran (5) mit einer vorgegebenen Dicke verbleibt. 
 
 
-17.Verfahren nach Anspruch 16, dadurch gekennzeichnet, dass die gleichmässige flächige Zerstörung oder teilweise Zerstörung der Kristallstruktur des Halbleitersubstrates (1) mittels Laserstrahlung erfolgt. 
+17. Verfahren nach Anspruch 16, dadurch gekennzeichnet, dass die gleichmässige flächige Zerstörung oder teilweise Zerstörung der Kristallstruktur des Halbleitersubstrates (1) mittels Laserstrahlung erfolgt. 
 
 18. Verfahren nach Anspruch 16 oder 17, dadurch gekennzeichnet, dass das anisotrope Ätzen in einer Kaliumhydroxydlösung erfolg 
 
@@ -215,20 +226,23 @@ Claims
 cited
 
 PATENTS CITED IN THE SEARCH REPORT 
- 1.  VERFAHREN ZUR HERSTELLUNG EINER SCHMALEN (100)-ORIENTIERTEN RECHTECKIGEN MEMBRAN AUS MONOKRISTALLINEM SILIZIUM 
 
-	Inventor:
-GERLACH GERALD [DD] 
-KUEHNE SUSANNE [DD] (+1) 	Applicant:
-TELTOV GERAETE REGLER [DD] 	EC:
-B81C1/00E8 
-IPC:
-B81C1/00
+1.  VERFAHREN ZUR HERSTELLUNG EINER SCHMALEN (100)-ORIENTIERTEN RECHTECKIGEN MEMBRAN AUS MONOKRISTALLINEM SILIZIUM 
+
+Inventor:
+- GERLACH GERALD [DD] 
+- KUEHNE SUSANNE [DD] (+1) 	
+
+Applicant: TELTOV GERAETE REGLER [DD] 	
+EC: B81C1/00E8 
+IPC: B81C1/00
 (IPC1-7):G01L9/06
-H01L21/308 	Publication info:
-DD272737 (A1) 
-1989-10-18 	Priority date:
-1988-05-18 
+H01L21/308 	
+Publication info: DD272737 (A1) 
+1989-10-18 	
+Priority date: 1988-05-18
+
+
  2.  Resonator device. 
 
 	Inventor:
@@ -295,7 +309,9 @@ Patent family
 
 	Inventor:
 ALAVI MANI DIPL ING DR [DE] 
-FABULA THOMAS DIPL PHYS [DE] (+2) 	Applicant:
+FABULA THOMAS DIPL PHYS [DE] (+2) 	
+
+Applicant:
 HAHN SCHICKARD GES [DE] 	EC:
 G01L9/00A10D
 G01L9/00D1
