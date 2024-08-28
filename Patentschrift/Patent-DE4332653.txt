@@ -2,12 +2,16 @@ Monolithically integrated semiconductor element, use thereof and method for prod
 
 http://worldwide.espacenet.com/publicationDetails/biblio?CC=DE&KC=C1&ND=4&FT=D&DB=EPODOC&NR=4332653C1&bcId=0&return=true&date=19940901&locale=en_EP
 
-Page bookmark DE4332653  (C1)  -  Monolithically integrated semiconductor element, use thereof and method for producing such a semiconductor element Inventor(s): 
-ALAVI MANI DIPL ING DR [DE]; 
-FABULA THOMAS DIPL PHYS [DE]; 
-SCHUMACHER AXEL DIPL PHYS [DE]; 
-WAGNER HANS-JOACHIM DIPL PHYS [DE] 
+Page bookmark DE4332653  (C1)  
+-  Monolithically integrated semiconductor element, use thereof and method for producing such a semiconductor element 
+
+Inventor(s): 
+- ALAVI MANI DIPL ING DR [DE]; 
+- FABULA THOMAS DIPL PHYS [DE]; 
+- SCHUMACHER AXEL DIPL PHYS [DE]; 
+- WAGNER HANS-JOACHIM DIPL PHYS [DE] 
 + Applicant(s): 
+
 HAHN SCHICKARD GES [DE] + Classification: 
 
 - international:	
@@ -15,7 +19,9 @@ G01L9/00; G01P15/08; G01P15/09; G01P15/12; G01P15/125; (IPC1-7): G01L1/00; G01L9
 - European:	
 G01L9/00A10D; G01L9/00D1; G01P15/08; G01P15/08A; G01P15/08F; G01P15/09; G01P15/125; G01P15/12D 
 
-Application number: DE19934332653 19930924  Priority number(s): DE19934332653 19930924
+Application number: DE19934332653 19930924  
+
+Priority number(s): DE19934332653 19930924
 
 Abstract
 The monolithically integrated semiconductor element has a bar structure arranged over a diaphragm and located on support webs. The diaphragm, support webs and bar structure are integrally formed from a common semiconductor substrate and have edge faces which are defined by differential etching rates in different crystal orientations of the semiconductor substrate. Such a semiconductor element is produced by applying a mask layer onto opposite surfaces of a semiconductor substrate having a predetermined crystal orientation, subsequent uniform planar destruction or partial destruction of the crystal structure followed by anisotropic etching until the bar structure has been uncovered by etching and a diaphragm with a predetermined thickness remains under the bar. A monocrystalline silicon substrate with a <110> surface crystal orientation has proved particularly suitable. The monolithically integrated semiconductor element according to the invention is, in particular, suitable for use as a sensor or electromechanical transducer.
@@ -129,7 +135,7 @@ Wesentlich für das so hergestellte erfindungsgemässe monolithisch integrierte 
 
 Diese Berandungsflächen werden in den Darstellungen der Fig. 2, Schritt e), sowie der Darstellung von Fig. 3 besonders deutlich. Eine Draufsicht auf das fertige Halbleiterelement rechts in Fig. 2, Schritt e), zeigt, dass das Halbleiterelement eine auf der Membran 5 liegende H-förmige erhöhte Mikrostruktur enthält. Anhand der Schnittlinie A-A und B-B und der dazugehörenden Schnittdarstellungen in Fig. 2, Schritt e) sowie Fig. 3 ist die Orientierung der Berandungsflächen des erfindungsgemässen Halbleiterelementes ersichtlich. 
 
-In der linken Darstellung von Fig. 2, Schritt e) weist der Balken der Balkenstruktur 10 eine dreieckförmige Querschnittsgestalt auf, wobei die innerhalb des Halbleitersubstrates 1 liegenden Seitenflächen 111-Kristallflächen sind. Auf der Membran 5 bildet sich gegenüberliegend zum Balken ein in etwa zum Balken 10 symmetrisch liegender Grat 6 aus, der ebenfalls 111-Berandungsflächen enthält. Die beim anisotropen Ätzen freigelegten Bereiche weisen ebenfalls zunächst eine 111-Berandungsfläche auf, die durch aufeinanderfolgende 100, 111, 110-Flächen, den Grat 6 und den nachfolgenden 110, 111 und 100-Flächen miteinander in Verbindung sind. Die zur Innenseite des Halbleitersubstrates 1 weisende Oberfläche der Membran 5 weist, bis auf den Grat 6, eine [110]-Orientierung auf.Wie aus der Schnittdarstellung von Fig. 2, Schritt e), deutlich zu erkennen ist, ist zwischen dem Balken der Balkenstruktur 10 und dem Halbleitersubstrat 1, abgesehen vom Grat 6, eine nahezu achteckförmige Öffnung vorgesehen, die durch die erwähnten Berandungsflächen begrenzt ist. 
+In der linken Darstellung von Fig. 2, Schritt e) weist der Balken der Balkenstruktur 10 eine dreieckförmige Querschnittsgestalt auf, wobei die innerhalb des Halbleitersubstrates 1 liegenden Seitenflächen 111-Kristallflächen sind. Auf der Membran 5 bildet sich gegenüberliegend zum Balken ein in etwa zum Balken 10 symmetrisch liegender Grat 6 aus, der ebenfalls 111-Berandungsflächen enthält. Die beim anisotropen Ätzen freigelegten Bereiche weisen ebenfalls zunächst eine 111-Berandungsfläche auf, die durch aufeinanderfolgende 100, 111, 110-Flächen, den Grat 6 und den nachfolgenden 110, 111 und 100-Flächen miteinander in Verbindung sind. Die zur Innenseite des Halbleitersubstrates 1 weisende Oberfläche der Membran 5 weist, bis auf den Grat 6, eine [110]-Orientierung auf. Wie aus der Schnittdarstellung von Fig. 2, Schritt e), deutlich zu erkennen ist, ist zwischen dem Balken der Balkenstruktur 10 und dem Halbleitersubstrat 1, abgesehen vom Grat 6, eine nahezu achteckförmige Öffnung vorgesehen, die durch die erwähnten Berandungsflächen begrenzt ist. 
 
 Die den unterschiedlichen Ätzraten der verschiedenen Kristallorientierungen entsprechenden Berandungsflächen des erfindungsgemässen Halbleiterelementes sind auch in der Darstellung von Fig. 3 deutlich zu erkennen. Gleiche Bezugszeichen bezeichnen wieder gleiche Teile. Hier sind jetzt deutlich die beiden Trägerstege 15, 16 zu erkennen, zwischen denen die Balkenstruktur 10 angeordnet ist. Aufgrund der gewählten Kristallorientierung ist an den Trägerstegen 15, 16 wieder die Unterschneidung ersichtlich, die durch 100- Kristallflächen definiert ist. Im übrigen ist auch hier ein oktagonaler Querschnitt der beiden Öffnungen 25, 26 deutlich zu erkennen. Die Berandungsflächen dieser beiden Öffnungen 25, 26 sind ausschliesslich durch die Kristallebenen 100 sowie 110 gegeben. 
 
@@ -147,7 +153,9 @@ Die Darstellung in Fig. 6 entspricht weitgehend der Darstellung von Fig. 1. Zus�
 
 Anzumerken ist weiter, dass das Resonatorelement, d. h. die Balkenstruktur 10, mit einer zusätzlichen seismischen Masse versehen werden kann. Eine solche zusätzliche Masse ist insbesondere bei der Verwendung des erfindungsgemässen Halbleiterelementes als Beschleunigungssensor vorteilhaft. 
 
-Untersuchungen haben gezeigt, dass eine Balkenlänge von etwa 2 mm und eine Balkenbreite von etwa 120 mu m sehr gute Sensoreigenschaften aufweist. Die Membran 5 sollte etwa 150 mu m dick sein. Bezugszeichenliste 1 Halbleitersubstrat
+Untersuchungen haben gezeigt, dass eine Balkenlänge von etwa 2 mm und eine Balkenbreite von etwa 120 mu m sehr gute Sensoreigenschaften aufweist. Die Membran 5 sollte etwa 150 mu m dick sein. Bezugszeichenliste
+
+1 Halbleitersubstrat
 2 Oberfläche
 3 Oberfläche
 5 Membran
@@ -176,6 +184,7 @@ Untersuchungen haben gezeigt, dass eine Balkenlänge von etwa 2 mm und eine Balk
 10c dritter Balken
 
 Claims
+
 1. Monolithisch integriertes Halbleiterelement mit einer über einer Membran angeordneten und auf Trägerstegen sitzenden Balkenstruktur (BOD-Struktur), dadurch gekennzeichnet, dass die Membran (5), die Trägerstege (15, 16) und die Balkenstruktur (10) einstückig aus einem gemeinsamen Halbleitersubstrat (1) gebildet sind und Berandungsflächen (20) aufweisen, die durch unterschiedliche Ätzraten in verschiedenen Kristallorientierungen des Halbleitersubstrates (1) bestimmt sind. 
 
 2. Monolithisch integriertes Halbleiterelement nach Anspruch 1, dadurch gekennzeichnet, dass das Halbleitersubstrat (1) ein einkristallines Siliziumsubstrat ist. 
@@ -212,7 +221,6 @@ Claims
 - gleichmässige, flächige Zerstörung oder teilweise Zerstörung der Kristallstruktur des Halbleitersubstrates (1) ausgehend von einer der Oberflächen (2, 3), um nach einem erfolgten Ätzvorgang eine sich im Halbleitersubstrat (1) ausbildende Membran (5) mit einer darüber angeordneten und auf Trägerstegen (15, 16) sitzenden Balkenstruktur (10) zu erhalten, und 
 - anisotropes Ätzen, bis die Balkenstruktur (10) freigeätzt ist und unter der Balkenstruktur (10) eine Membran (5) mit einer vorgegebenen Dicke verbleibt. 
 
-
 17. Verfahren nach Anspruch 16, dadurch gekennzeichnet, dass die gleichmässige flächige Zerstörung oder teilweise Zerstörung der Kristallstruktur des Halbleitersubstrates (1) mittels Laserstrahlung erfolgt. 
 
 18. Verfahren nach Anspruch 16 oder 17, dadurch gekennzeichnet, dass das anisotrope Ätzen in einer Kaliumhydroxydlösung erfolg 
@@ -245,23 +253,25 @@ Priority date: 1988-05-18
 
  2.  Resonator device. 
 
-	Inventor:
-GREENWOOD JOHN CHRISTOPHER 	Applicant:
-STC PLC [GB] 	EC:
-G01L1/10A
-G01L1/18B4
-(+2) 	IPC:
+Inventor: GREENWOOD JOHN CHRISTOPHER 	
+Applicant: STC PLC [GB] 	
+EC: G01L1/10A, G01L1/18B4
+(+2) 	
+IPC:
 G01L1/10
 G01L1/18
 G01L9/00
-(+3) 	Publication info:
+(+3) 	
+
+Publication info:
 EP0244086 (A2) 
 1987-11-04 
 EP0244086 (A3) 
 1989-07-19 
 EP0244086 (B1) 
-1990-06-13 	Priority date:
-1986-04-26 
+1990-06-13 	
+
+Priority date: 1986-04-26 
 
 Legal status
 Legal status of DE4332653 (C1) 1994-09-01:
@@ -307,19 +317,20 @@ Patent family
 1 application(s) for: DE4332653 (C1) 
  1.  Monolithically integrated semiconductor element, use thereof and method for producing such a semiconductor element 
 
-	Inventor:
+	
+Inventor:
 ALAVI MANI DIPL ING DR [DE] 
 FABULA THOMAS DIPL PHYS [DE] (+2) 	
 
-Applicant:
-HAHN SCHICKARD GES [DE] 	EC:
-G01L9/00A10D
-G01L9/00D1
-(+6) 	IPC:
-G01L9/00
+Applicant: HAHN SCHICKARD GES [DE] 	
+
+EC: G01L9/00A10D, G01L9/00D1 (+6) 	
+
+IPC: G01L9/00
 G01P15/08
 G01P15/09
-(+7) 	Publication info:
-DE4332653 (C1) 
-1994-09-01 	
+(+7) 	
+
+Publication info:
+DE4332653 (C1)  1994-09-01 	
 
