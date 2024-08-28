@@ -23,7 +23,7 @@
 ## Inventors	
 - ALAVI, Mani, Dipl.-Ing., Dr.rer.nat., 78050 Villingen-Schwenningen, DE 
 - FABULA, Thomas, Dipl.-Phys., 78073 Bad Dürrheim, DE
-- SCHUMACHER, Axel, Dipl.-Phys.,78083 Dauchingen, DE 
+- SCHUMACHER, Axel, Dipl.-Phys., 78083 Dauchingen, DE 
 - WAGNER, Hans-Joachim, Dipl.-Phys., 78098 Freiburg, DE
 
 ## Current Assignee 
