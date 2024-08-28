@@ -1,0 +1,309 @@
+Monolithically integrated semiconductor element, use thereof and method for producing such a semiconductor element  
+
+http://worldwide.espacenet.com/publicationDetails/biblio?CC=DE&KC=C1&ND=4&FT=D&DB=EPODOC&NR=4332653C1&bcId=0&return=true&date=19940901&locale=en_EP
+
+Page bookmark DE4332653  (C1)  -  Monolithically integrated semiconductor element, use thereof and method for producing such a semiconductor element Inventor(s): ALAVI MANI DIPL ING DR [DE]; FABULA THOMAS DIPL PHYS [DE]; SCHUMACHER AXEL DIPL PHYS [DE]; WAGNER HANS-JOACHIM DIPL PHYS [DE] + Applicant(s): HAHN SCHICKARD GES [DE] + Classification: 
+- international:	G01L9/00; G01P15/08; G01P15/09; G01P15/12; G01P15/125; (IPC1-7): G01L1/00; G01L9/00; G01P15/00; H01L21/308; H01L49/00 
+- European:	G01L9/00A10D; G01L9/00D1; G01P15/08; G01P15/08A; G01P15/08F; G01P15/09; G01P15/125; G01P15/12D 
+
+Application number: DE19934332653 19930924  Priority number(s): DE19934332653 19930924
+
+Abstract
+The monolithically integrated semiconductor element has a bar structure arranged over a diaphragm and located on support webs. The diaphragm, support webs and bar structure are integrally formed from a common semiconductor substrate and have edge faces which are defined by differential etching rates in different crystal orientations of the semiconductor substrate. Such a semiconductor element is produced by applying a mask layer onto opposite surfaces of a semiconductor substrate having a predetermined crystal orientation, subsequent uniform planar destruction or partial destruction of the crystal structure followed by anisotropic etching until the bar structure has been uncovered by etching and a diaphragm with a predetermined thickness remains under the bar. A monocrystalline silicon substrate with a <110> surface crystal orientation has proved particularly suitable. The monolithically integrated semiconductor element according to the invention is, in particular, suitable for use as a sensor or electromechanical transducer.
+Description
+Die Erfindung betrifft ein monolithisch integriertes Halbleiterelement gemäss den Merkmalen des Oberbegriffs des Anspruchs 1, dessen Verwendung sowie ein Verfahren zur Herstellung eines solchen Halbleiterelementes. 
+
+Ein solches monolithisch integriertes Halbleiterelement mit einem über einer Membran angeordneten und auf Trägerstegen sitzenden Balken ist bereits in einem Artikel in Sensors and Actuators A, 25-27, 1991, auf den Seiten 717 bis 722 beschrieben worden. Das dort vorgestellte Halbleiterelement ist zum Einsatz als Drucksensor vorgesehen und durch anisotropes Ätzen von zwei zunächst voneinander getrennten Halbleitersubstraten hergestellt. Auf dem ersten Halbleitersubstrat wird durch anisotropes Ätzen eine rechteckförmige Membran mit Seitenlängen von 5 und 2,5 mm Länge und einer Dicke zwischen 50 und 80 mu m hergestellt, wobei auf der Membran zwei voneinander beabstandete Trägerstege durch eine geeignete Maskierungstechnik stehenbleiben. Im zweiten Halbleitersubstrat wird ein von einem Rahmen gehalterter Balken ebenfalls durch anisotropes Ätzen hergestellt.Die beiden Halbleitersubstrate werden dann so miteinander verbunden, dass der Balken des zweiten Halbleitersubstrates auf den Trägerstegen des ersten Halbleitersubstrates zum Liegen kommt und dann in einem Ofen bei 1100 DEG C mit diesem verbunden wird. In einem weiteren Schritt wird der auf den Trägerstegen liegende Balken dann von seinem Rahmen des zweiten Halbleitersubstrates mechanisch abgetrennt. 
+
+Auf diese Weise wird eine sog. BOD-(Bridge-On-Diaphragm)- Struktur hergestellt, die sich durch eine hohe Empfindlichkeit gegenüber Verformungen der Membran auszeichnet. Die Druckempfindlichkeit des Halbleiterelementes wird durch die Dicke der Membran und die Höhe der Trägerstege und der Balkendicke bestimmt, welche nach Art einer Hebelwirkung die Verformung der Membran an den Balken weitergeben. Der auf den Trägerstegen liegende Balken dient dabei als Resonatorelement. 
+
+Problematisch bei diesem bekannten Halbleiterelement ist dessen verhältnismässig komplizierte Herstellung, da zwei Halbleiterplättchen zunächst bearbeitet und schliesslich ausgerichtet miteinander verbunden werden müssen. 
+
+Ein monolithisch integriertes Halbleiterelement, das ebenfalls als Drucksensor zu verwenden ist, allerdings aus einem einzigen Halbleitersubstrat gebildet wird, ist in der EP 0 244 086 A2 sowie der Druckschrift J. Phys. E: Sc. Instrum. Volumen 17, 1984, auf den Seiten 650 bis 652 beschrieben. Das dort beschriebene monolitisch integrierte Halbleiterelement weist ebenfalls auf einer Membran angeordnete Trägerstege auf, welch ein parallel zu den Trägerstegen liegendes Resonatorelement über Verbindungsleisten halten. Die gesamte Halbleiterstruktur wird dabei durch Dotieren und anschliessendes anisotropes Ätzen hergestellt. Im einzelnen wird die Struktur des Resonators durch Bordiffusion über eine Oxydmaske auf einer Seite des Wafers erzeugt und die Membran durch Bordiffusion auf der anderen Seite des Wafers zur gleichen Zeit hergestellt.Nach der Bordiffusion wird Siliziumnitrid über den gesamten Wafer abgeschieden und Fenster mit Hilfe einer geeigneten Maskierung für den ersten Ätzschritt, in dem die Resonatorstruktur weitgehend unterätzt wird, geöffnet. Das Siliziumnitrid wird dann durch Plasmaätzen entfernt und das Siliziumätzen in einem zweiten Schritt vervollständigt. 
+
+Problematisch bei diesem Herstellungsverfahren des integrierten Halbleiterelementes ist, dass der hergestellte Resonator verhältnismässig dünn ist und aufgrund der Dotierung der Resonator mechanisch vorgespannt ist. Dies kann dazu führen, dass die Zuordnung von Druck und Resonanzfrequenz nicht mehr eindeutig ist. Darüber hinaus steht durch die dünne Resonatorstruktur lediglich ein eingeschränkter Messbereich bei der Verwendung des Halbleiterelementes als Drucksensor zur Verfügung. Zudem zeichnet sich der in dieser Form hergestellte Drucksensor durch eine weitgehend nicht lineare Kennlinie infolge der dünnen Resonatorstruktur aus. 
+
+Aus IEEE Transactions on Electron Devices, Vol. 35, Nr. 6, Juni 1988, S. 764-770, ist ein Beschleunigungssensor in Form eines monolithisch integrierten Siliziumelementes mit einer quadratischen Membran bekannt. Dort ist allerdings von keiner BOD-Struktur die Rede, sondern eine Membran vorgesehen, die selbst von vier jeweils seitlich an der Membran angeordneten Haltestegen an einem Siliziumrahmen gehalten ist. 
+
+Aus DD 2 72 737 A1 ist darüber hinaus ein Drucksensor beschrieben, der eine schmale rechteckige Membran aus monokristallinem Silizium aufweist. Die Membran des Drucksensors ist in einen Siliziumrahmen mit erhöhter Steifigkeit eingespannt. Eine über der Membran angeordnete Balkenstruktur zur Erhöhung der Empfindlichkeit des Drucksensors ist nicht beschrieben. 
+
+Der vorliegenden Erfindung liegt die Aufgabe zugrunde, ein monolithisch integriertes Halbleiterelement zu schaffen, das die vorgenannten Nachteile nicht aufweist und mit reproduzierbaren Eigenschaften, insbesondere durch eine einfache Herstellungstechnik realisierbar ist. 
+
+Diese Aufgabe wird für das monolithisch integrierte Halbleiterelement durch die Merkmale des Anspruchs 1 und für das Herstellungsverfahren durch die Merkmale des Anspruchs 16 gelöst. 
+
+Die Verwendung des erfindungsgemässen monolithisch integrierten Halbleiterelementes ist Gegenstand der Ansprüche 14 und 15. 
+
+Weiterbildungen der Erfindung sind Gegenstand der Unteransprüche. 
+
+Die Erfindung beruht also im wesentlichen darauf, die Membran, die Trägerstege und die Balkenstruktur für einen Sensor einstückig aus einem gemeinsamen Halbleitersubstrat zu bilden und dabei solche Berandungsflächen vorzusehen, die durch eine unterschiedliche Ätzrate in verschiedenen Kristallorientierungen des Halbleitersubstrates bestimmt sind. 
+
+Ein solches monolithisch integriertes Halbleiterelement wird im wesentlichen durch folgende Verfahrensschritte hergestellt: 
+
+- Aufbringung einer Maskierschicht, z. B. einer Oxydschicht, auf gegenüberliegenden Oberflächen eines Halbleitersubstrates, das vorzugsweise ein Siliziumsubstrat ist, mit einer vorgegebenen Oberflächen-Kriststallorientierung, 
+- gleichmässige flächige Zerstörung oder teilweise Zerstörung der Kristallstruktur des Halbleitersubstrates ausgehend von einer Oberfläche, um nach einem nachfolgenden Ätzvorgang eine sich im Halbleitersubstrat ausbildende Membran mit einer darüber angeordneten und auf Trägerstegen sitzenden Balkenstruktur zu erhalten, und 
+- anisotropes Ätzen, bis die Balkenstruktur freigeätzt ist und unter der Balkenstruktur eine Membran mit einer vorgegebenen Dicke verbleibt. 
+
+
+Es hat sich als besonders vorteilhaft erwiesen, als Halbleitersubstrat hierfür einkristallines Silizium mit einer &Lang&110&Rang&-Kristallorientierung zu verwenden. Die gleichmässige flächige Zerstörung bzw. teilweise Zerstörung bis zu einer vorgegebenen Tiefe des Halbleitersubstrates erfolgt darüber hinaus in einer bevorzugten Weiterbildung der Erfindung mit einem Laser, d. h. mit Laserstrahlung. Hierbei ist jedoch anzumerken, dass grundsätzlich auch andere Verfahren einsetzbar sind. Zur Zerstörung der Kristallstruktur kann innerhalb des Halbleitersubstrates in den vorgegebenen Bereichen grundsätzlich auch ein Ultraschallbohren, eine Bearbeitung mittels eines geeigneten mechanischen Fräsers oder eine Zerstörung mit hochenergetischen Teilchen vorgesehen werden. 
+
+Bei der Verwendung von einkristallinem &Lang&110&Rang&-Silizium als Halbleitersubstrat wird die Oberfläche des Siliziumsubstrates derart zerstört bzw. teilweise zerstört, dass sich nach dem erfolgten Ätzvorgang ein Balken bzw. eine Balkenstruktur innerhalb des Siliziumsubstrates ausbildet, welche längs einer [1@0]-Kristallrichtung angeordnet ist. Die Zerstörung bzw. teilweise Zerstörung der Kristallstruktur des Siliziumsubstrates erfolgt derart, dass die Trägerstege vorzugsweise orthogonal zur Balkenstruktur angeordnet sind. 
+
+Das anisotrope Ätzen erfolgt vorzugsweise in einer 30%igen Kaliumhydroxyd-Lösung bei einer Temperatur von annähernd 60 DEG C. 
+
+Um darüber hinaus feststellen zu können, wann die Balkenstruktur beim anisotropen Ätzen freigeätzt ist und somit freitragend über der Membran liegt, wird auf dem Halbleiterwafer ein Testbereich mit einer weiteren Balkenstruktur vorgesehen, die der über der Membran liegenden Balkenstruktur entspricht, allerdings keine Trägerstege aufweist. Sobald beim anisotropen Ätzen diese weitere Balkenstruktur - im einfachsten Fall ein einzelner Balken - herabfällt, ist dies ein Signal für die Beendigung des Ätzvorganges. 
+
+Bei hohen Anforderungen an die Strukturauflösung wird vor der Zerstörung bzw. teilweisen Zerstörung der Kristallordnung des Halbleitersubstrates, die zuvor auf dem Halbleitersubstrat aufgebrachte Oxydschicht in vorgegebenen Bereichen zur Definition der Membran, der Trägerstege und des Balkens mit Hilfe eines Lithographieschrittes geöffnet. Darüber hinaus ist es auch möglich, die beim Lithographieschritt unmaskierten Bereiche vor der Zerstörung bzw. teilweisen Zerstörung der Kristallordnung des Halbleitersubstrates anisotrop anzuätzen. 
+
+Bei der Verwendung von &Lang&110&Rang&-Silizium als Halbleitersubstrat zum Herstellen eines solchen Halbleiterelementes kann zur Massenproduktion ein &Lang&110&Rang&-Siliziumwafer, der beidseitig poliert ist und eine niedrige Dotierung (ca. 10 Ohm cm) aufweist, vorgesehen werden. Die Dicke des Siliziumwafers kann zwischen 300 mu m und 600 mu m, vorzugsweise etwa bei 380 mu m liegen. Danach erfolgt eine thermische Oxydation, so dass eine etwa 1 mu m dicke Maskierschicht auf den beiden Oberflächen des Siliziumwafers aufgebracht wird. Anschliessend erfolgt die oben bereits diskutierte Zerstörung bzw. teilweise Zerstörung einer Oberfläche des Siliziumwafers in vorgegebenen Bereichen, wobei ein Lithographieschritt vorgesehen werden kann.Anschliessend wird der Siliziumwafer anisotrop geätzt und das Abtragen der Oxydschicht in gepufferter Flusssäure, also in einem Nassätzprozess, durchgeführt. Letztlich wird der Siliziumwafer in einzelne Halbleiterelemente geteilt und eine geeignete Kontaktierung aufgebracht. 
+
+Es hat sich bei der Verwendung von &Lang&110&Rang&-Silizium als Ausgangssubstrat als besonders günstig erwiesen, die Zerstöru bzw. teilweise Zerstörung der Kristallordnung des Siliziumsubstrates so vorzusehen, dass ein H-förmiger Bereich der Oberfläche des Siliziumsubstrates nicht zerstört wird. Der mittlere Schenkel der H-Struktur ist dabei so auszurichten, dass dieser längs zur [1@0]-Kristallrichtung liegt. Hierdurch wird gewährleistet, dass der Balken beim anisotropen Ätzvorgang so freigeätzt wird, dass seine sich gegenüberliegenden Schenkel jeweils 111-Berandungsflächen aufweisen. Bei geeigneter Tiefe der Zone gestörter Kristallordnung bildet sich je nach Ätzdauer beim anisotropen Ätzen die Balkenstruktur mit einem Balken aus, der einen trapezförmigen oder dreieckförmigen Querschnitt aufweist, wobei sich 111-Berandungsflächen einstellen. 
+
+Obwohl die Balkenstruktur im einfachsten Fall aus einem einzigen Balken bestehen kann, hat es sich auch als zweckmässig erwiesen, für eine Momentenkompensation mehrere Balken parallel zueinander anzuordnen. Als günstig hat sich hierbei eine Balkenstruktur mit drei oder vier parallel zueinander angeordneten Balken herausgestellt. 
+
+Darüber hinaus ist es zweckmässig, zur Reduzierung der Luftdämpfung das Halbleiterelement mit einer Verkapselungseinrichtung versehen. Das Innere der Verkapselungseinrichtung wird hierfür zweckmässigerweise evakuiert. 
+
+Darüber hinaus ist es auch möglich, das Resonatorelement, d. h. die Balkenstruktur, mit einer zusätzlichen seismischen Masse zu versehen (beispielsweise durch Aufdampfen). Eine solche zusätzliche Masse dient als Basisstruktur für Beschleunigungssensoren. 
+
+Zusätzlich ist auf den Trägerstegen eine Leitungsführung aufgebracht, so dass eine leitende Verbindung zur Balkenstruktur möglich ist. 
+
+Die wesentlichen Vorteile des erfindungsgemässen Halbleiterelementes bzw. dessen Herstellungsverfahrens sind folgende: 
+
+- das Herstellungsverfahren benötigt keine zusätzlichen Dotierungsschritte oder Epitaxieschritte, um Ätzstoppschichten herzustellen, 
+- das Halbleitersubstrat braucht nur von einer Oberfläche her bearbeitet zu werden, 
+- es sind im Vergleich zum Stand der Technik dickere Balkenstrukturen realisierbar, wodurch eine höhere mechanische Belastbarkeit des Halbleiterelementes erreicht wird, 
+- eine dreieckige bzw. trapezförmige Querschnittsform der Balkenstruktur sorgt für eine hohe Messempfindlichkeit, 
+- bei der Bearbeitung mit Laserstrahlung zur flächigen Zerstörung bzw. teilweisen Zerstörung der Kristallstruktur bestehen grosse Variationsmöglichkeiten bei der Auswahl der Geometrie der zu zerstörenden Bereiche. Im Vergleich zu mechanischen Bearbeitungsverfahren, wie z. B. Schleifen, Sägen o. ä., zeichnen sich die bearbeiteten Halbleitersubstrate durch eine höhere Bruchsicherheit aus, 
+- beim Einsatz des Halbleiterelementes als Drucksensor ergibt sich ein weiter Messbereich mit einer nahezu linearen Kennlinie. 
+
+
+Das erfindungsgemässe monolithisch integrierte Halbleiterelement ist als Basisstruktur für zahlreiche mikromechanische Sensoren und Aktoren verwendbar. Als Wandlerprinzipien können z. B. eingesetzt werden: elektrothermisch, elektrostatisch, elektromagnetisch, resistiv, piezoresistiv, magnetostriktiv, elektroakustisch, piezoelektrisch zur Realisierung von Sensoren und Aktoren mit analogem und frequenzanalogem Funktionsprinzip. 
+
+Das erfindungsgemässe Halbleiterelement eignet sich insbesondere als Drucksensor, Kraftsensor, Beschleunigungssensor sowie als taktiler Sensor mit analogem oder frequenzanalogem Ausgangssignal. Darüber hinaus kann das erfindungsgemässe Halbleiterelement für die Realisierung von Aktorbauelementen, wie Schalter, Ventile, Klappenanzeigen, Antriebe usw. eingesetzt werden. 
+
+Die Erfindung wird im folgenden anhand von Ausführungsbeispielen im Zusammenhang mit der Erläuterung der einzelnen Herstellungsschritte beschrieben. Es zeigt 
+
+Fig. 1 eine prinzipielle Darstellung eines erfindungsgemässen monolithisch integrierten Halbleiterelementes, 
+
+Fig. 2 ein Beispiel für eine mögliche Prozessabfolge zur Herstellung eines erfindungsgemässen monolithisch integrierten Halbleiterelementes, dargestellt anhand der einzelnen Prozessschritte, 
+
+Fig. 3 eine Schnittansicht eines durch die in Fig. 2 dargestellte Prozessabfolge hergestellten Halbleiterelementes, 
+
+Fig. 4 eine Darstellung ähnlich zu Fig. 1 mit einer Balkenstruktur, die mehrere zueinander parallel liegende Balken aufweist, 
+
+Fig. 5 ein Ausführungsbeispiel mit Balkenstruktur, Schichtaufbau und Leitungsführung und 
+
+Fig. 6 die Darstellung eines erfindungsgemässen Halbleiterelementes mit Verkapselungseinrichtung. 
+
+In Fig. 1 ist eine Prinzipdarstellung des erfindungsgemässen monolithisch integrierten Halbleiterelementes dargestellt. Das Halbleiterelement weist eine über einer Membran 5 angeordnete und auf zwei Trägerstegen 15, 16 sitzende Balkenstruktur 10 auf. Die Balkenstruktur 10 besteht in der Darstellung von Fig. 1 aus einem einzigen Balken. Die Membran 5, die Trägerstege 15, 16 und der Balken 10 sind aus einem gemeinsamen Halbleitersubstrat 1, das beispielsweise einkristallines Silizium sein kann, gebildet und damit einstückig aneinandergeformt. Die Membran 5, die Trägerstege 15, 16 und die Balkenstruktur 10 weisen Berandungsflächen 20, 21 auf, die durch unterschiedliche Ätzraten in verschiedenen Kristallorientierungen des Halbleitersubstrates 1 bestimmt sind.Diese besonders ausgebildeten Berandungsflächen 20, 21 sind in der Darstellung von Fig. 1 der Einfachheit halber nicht massstabsgetreu dargestellt. Es ist jedoch deutlich zu erkennen, dass die Querschnitte der Trägerstege 15, 16 einen mittleren Abschnitt mit parallel zueinander liegenden Berandungsflächen 20 aufweisen, an denen sich nach oben und unten verbreiternde Wandungen anschliessen. Im Zusammenhang mit den nachfolgenden Fig. 2 und 3 und der dazugehörenden Erläuterung wird die Ausbildung dieser Berandungsflächen 20, 21 deutlich. 
+
+Obwohl prinzipiell jedes Halbleitermaterial, wie z. B. GaAs, zur Herstellung eines erfindungsgemässen monolithisch integrierten Halbleiterelementes geeignet ist, wird die Erfindung im folge anhand eines einkristallinen Siliziumsubstrates erläutert, das im Sinne der Millerschen Indizes eine &Lang&110&Rang&-Kristallorientierung an seiner Oberfläche aufweist. Die Balkenstruktur 10 ist dabei längs der [1@0]-Richtung angeordnet. In diesem speziellen Ausführungsbeispiel stehen die beiden Trägerstege 15, 16 orthogonal zur Ausrichtung der Balkenstruktur 10, also in [001]-Richtung. Die Balkenstruktur 10 sitzt dabei mit ihren beiden Enden 11, 12 jeweils auf einem der beiden Trägerstege 15, 16 auf. 
+
+In Fig. 2 ist eine mögliche Prozessabfolge zur Herstellung des erfindungsgemässen monolithisch integrierten Halbleiterelementes am Beispiel eines einkristallinen Siliziumsubstrates und anschliessender Laserbearbeitung sowie anisotropem Ätzen beschrieben. Die einzelnen Prozessschritte a)-e) sind in der Darstellung von Fig. 2 anhand einer Schnittdarstellung sowie der Draufsicht auf das zu bearbeitende Siliziumsubstrat 1 gezeigt. Zusätzlich sind in Fig. 2 noch die dazugehörenden Kristallrichtungen anhand der Millerschen Indizes aufgeführt. 
+
+Als Ausgangssubstrat dient ein &Lang&110&Rang&-Siliziumwafer, der beidseitig poliert ist, eine niedrige Dotierung (Leitfähigkeit ca. 10 Ohm cm) sowie eine Dicke von etwa 380 mu m aufweist. Das Halbleitersubstrat ist in Fig. 2 wieder mit dem Bezugszeichen 1 gekennzeichnet. In einem ersten Verfahrensschritt - vgl. a) - wird auf die beiden Oberflächen 2, 3 des Halbleitersubstrates 1 eine Maskierschicht 41 bzw. 42, z. B. eine Oxydschicht mittels thermischer Oxydation, aufgebracht. Die Dicke der beiden Oxydschichten 41, 42 beträgt jeweils etwa 1 mu m. 
+
+In einem nächsten Schritt b) wird die obere Oxydschicht 41 in vorgegebenen Bereichen 44 wieder entfernt. Dies wird durch an sich bekannte Lithographieprozesse erreicht. Die Oxydschicht wird an denjenigen Bereichen geöffnet, an denen anschliessend die Kristallstruktur des Halbleitersubstrates 1 zerstört bzw. teilweise zerstört werden soll, um nach einem anisotropen Ätzvorgang eine sich im Halbleitersubstrat ausbildende Membran mit darüber angeordneter und eine auf Trägerstegen 15, 16 sitzende Balkenstruktur 10 zu erhalten. Im Ausführungsbeispiel von Fig. 2 und dem dort verwendeten &Lang&110&Rang&-Siliziumsubstrat wird die Oxydschicht 41 so geöffnet, dass ein H-förmiger Bereich auf der Oberfläche 2 des Siliziumsubstrates weiterhin mit der Markierschicht bzw. Oxydschicht abgedeckt ist.Der mittlere Schenkel der H-Struktur ist so auszurichten, dass dieser längs zur [1@0]-Kristallrichtung liegt. Das eben beschriebene Öffnen der Oxydschicht 41 wird aus der Draufsicht auf das Halbleitersubstrat 1 in Fig. 2, Schritt b), deutlich. 
+
+Im nächsten Schritt c) wird der von der Oxydschicht 41 freigelegte unmaskierte Bereich 44 einer gleichmässigen flächigen Zerstörung bzw. teilweisen Zerstörung der Kristallordnung unterzogen. Hierfür kann beispielsweise mittels einer Laserbearbeitung die Kristallstruktur bis zu einer definierten Tiefe von etwa 150 bis 200 mu m gezielt beeinträchtigt werden. Zur Laserbestrahlung dieses unmaskierten Bereiches 44 kann beispielsweise ein Nd:YAG-Laser eingesetzt werden. Um eine Zerstörung der Kristallordnung unterhalb des unmaskierten Bereiches 44 bis zu einer vorgegebenen Tiefe zu erreichen, ist die Leistungsdichte des Laserstrahls entsprechend einzustellen. Wesentlich ist hierbei, dass die Kri<DP N=13>stallordnung bei der Laserbearbeitung unterhalb des unmaskierten Bereiches 44 jeweils gleichtief zerstört wird.Anzustreben ist dabei, dass der Bereich mit einer gestörten Kristallordnung eine ebene, zur unteren Oberfläche des Siliziumsubstrates parallele Fläche aufweist. Der zerstörte Bereich ist in Fig. 2, Schritt c), punktiert dargestellt und mit dem Bezugszeichen 45 versehen. 
+
+Durch die Behandlung des unmaskierten Bereichs 44 mit Laserstrahlung entsteht in dem punktierten Bereich 45 eine Zone mit zerstörter Kristallordnung. Diese zerstörten Bereiche 45 werden in einem nächsten Schritt d) anisotrop geätzt. Beim anisotropen Ätzen von Silizium, beispielsweise in 30%igen Kaliumhydroxyd-Lösungen bei 60 DEG C, treten bei Verwendung von geeigneten Maskierschichten, wie z. B. thermischem Siliziumdioxyd, Ätzgruben auf, die nach einer gewissen Ätzdauer nur noch von sehr langsam ätzenden 111-Berandungsflächen begrenzt werden. 
+
+Dies wird zur Herstellung des erfindungsgemässen Halbleiterelementes gezielt ausgenutzt. Das Ergebnis des anisotropen Ätzens ist in Fig. 2, Schritt d), zu erkennen. Der anisotrope Ätzvorgang wird so lange durchgeführt, bis der Balken der Balkenstruktur 10 mit Berandungsflächen 21 freigeätzt ist und damit frei über der Membran 5 des Halbleitersubstrates 1 liegt und von den Trägerstegen 15, 16 gehaltert wird. 
+
+In einem darauffolgenden Schritt e) werden die beiden Oxydschichten 41, 42 vom Halbleitersubstrat 1 wieder entfernt, beispielsweise durch Abtragen der Oxydschichten 41, 42 in gepufferter Flusssäure. 
+
+Anzumerken ist in diesem Zusammenhang noch, dass das teilweise Entfernen der Oxydschicht 41 mit Hilfe einer geeigneten Maskierung nicht unbedingt vorgesehen werden muss. Dieser Schritt kann nämlich bei geringeren Anforderungen an die Strukturauflösung ersatzlos entfallen. Dann wird beispielsweise mit Laserlicht die Oxydschicht 41 in den vorgegebenen Bereichen gleichzeitig mitstrukturiert bzw. zerstört. 
+
+Wesentlich für das so hergestellte erfindungsgemässe monolithisch integrierte Halbleiterelement sind die sich ergebenden Berandungsflächen von Balkenstruktur 10, Membran 5 und Trägerstege 15, 16. Durch das gezielte Ausnutzen von langsam ätzenden 111-Kristallflächen wird erreicht, dass die Balkenstruktur 10, die Membran 5 und die Trägerstege 15, 16 Berandungsflächen aufweisen, die durch die unterschiedliche Ätzrate in verschiedenen Kristallorientierungen des Halbleitersubstrates bestimmt sind. 
+
+Diese Berandungsflächen werden in den Darstellungen der Fig. 2, Schritt e), sowie der Darstellung von Fig. 3 besonders deutlich. Eine Draufsicht auf das fertige Halbleiterelement rechts in Fig. 2, Schritt e), zeigt, dass das Halbleiterelement eine auf der Membran 5 liegende H-förmige erhöhte Mikrostruktur enthält. Anhand der Schnittlinie A-A und B-B und der dazugehörenden Schnittdarstellungen in Fig. 2, Schritt e) sowie Fig. 3 ist die Orientierung der Berandungsflächen des erfindungsgemässen Halbleiterelementes ersichtlich. 
+
+In der linken Darstellung von Fig. 2, Schritt e) weist der Balken der Balkenstruktur 10 eine dreieckförmige Querschnittsgestalt auf, wobei die innerhalb des Halbleitersubstrates 1 liegenden Seitenflächen 111-Kristallflächen sind. Auf der Membran 5 bildet sich gegenüberliegend zum Balken ein in etwa zum Balken 10 symmetrisch liegender Grat 6 aus, der ebenfalls 111-Berandungsflächen enthält. Die beim anisotropen Ätzen freigelegten Bereiche weisen ebenfalls zunächst eine 111-Berandungsfläche auf, die durch aufeinanderfolgende 100, 111, 110-Flächen, den Grat 6 und den nachfolgenden 110, 111 und 100-Flächen miteinander in Verbindung sind. Die zur Innenseite des Halbleitersubstrates 1 weisende Oberfläche der Membran 5 weist, bis auf den Grat 6, eine [110]-Orientierung auf.Wie aus der Schnittdarstellung von Fig. 2, Schritt e), deutlich zu erkennen ist, ist zwischen dem Balken der Balkenstruktur 10 und dem Halbleitersubstrat 1, abgesehen vom Grat 6, eine nahezu achteckförmige Öffnung vorgesehen, die durch die erwähnten Berandungsflächen begrenzt ist. 
+
+Die den unterschiedlichen Ätzraten der verschiedenen Kristallorientierungen entsprechenden Berandungsflächen des erfindungsgemässen Halbleiterelementes sind auch in der Darstellung von Fig. 3 deutlich zu erkennen. Gleiche Bezugszeichen bezeichnen wieder gleiche Teile. Hier sind jetzt deutlich die beiden Trägerstege 15, 16 zu erkennen, zwischen denen die Balkenstruktur 10 angeordnet ist. Aufgrund der gewählten Kristallorientierung ist an den Trägerstegen 15, 16 wieder die Unterschneidung ersichtlich, die durch 100- Kristallflächen definiert ist. Im übrigen ist auch hier ein oktagonaler Querschnitt der beiden Öffnungen 25, 26 deutlich zu erkennen. Die Berandungsflächen dieser beiden Öffnungen 25, 26 sind ausschliesslich durch die Kristallebenen 100 sowie 110 gegeben. 
+
+Wesentlich beim erfindungsgemässen Verfahren ist eine exakte Abstimmung zwischen der gewählten Dicke des Halbleitersubstrates, der Breite des Balkens der Balkenstruktur 10 sowie der Dicke der Membran 5, so dass das ausgewählte Halbleitersubstrat ausschliesslich von einer Oberfläche her bearbeitet werden muss. 
+
+Um festzustellen, wann die Balkenstruktur 10 beim anisotropen Ätzen freigelegt ist, ist es möglich, auf dem Halbleiterwafer einen Testbereich vorzusehen, auf dem ebenfalls eine freizuätzende weitere Balkenstruktur angeordnet ist, die der Balkenstruktur entspricht, welche zwischen den beiden Trägerstegen 15, 16 vorgesehen wird. Diese weitere Balkenstruktur weist dagegen keine Trägerstege auf. Sobald aufgrund der fehlenden Stützen die Balken dieser Balkenstruktur beim anisotropen Ätzen herabfallen, was ohne weiteres optisch detektierbar ist, wird der Vorgang des anisotropen Ätzens beendet. 
+
+Eine weitere Abwandlung des erfindungsgemässen Verfahrens, das in Fig. 2 vorgestellt wurde, besteht darin, den unmaskierten Bereich vor der Laserbehandlung anisotrop zu ätzen. 
+
+In Fig. 4 ist eine Darstellung eines erfindungsgemässen Halbleiterelementes ähnlich zu Fig. 1 gezeigt. Im Gegensatz zur Darstellung von Fig. 1 weist dieses Halbleiterelement, bei dem der Einfachheit halber die Berandungsflächen der Balkenstruktur 10, der Trägerstege 15, 16 und der Membran nicht massstäblich gezeigt sind, anstatt eines einzigen Balkens, jetzt drei parallel zueinander angeordnete Balken 10a, 10b und 10c auf. Eine Ausführung mit vier Balken hat sich als zweckmässig erwiesen, um eine günstige Momentenkompensation zu erreichen. Es sind auch hier die aufgrund der unterschiedlichen Ätzraten in den Kristalloberflächen sich ausbildenden Berandungsflächen deutlich zu erkennen. 
+
+In Fig. 5 ist ein möglicher Schichtaufbau der Balkenstruktur 10 für Sensoranwendungen dargestellt. Zur Herstellung einer unteren Elektrode (vgl. Fig. 5 unten) wird auf der Balkenstruktur 10, die niedrig n-dotiert ist, eine hochdotierte p<+>-Siliziumschicht 36 eingebracht. Auf dieser hochdotierten p<+>-Siliziumschicht 36 wird eine piezoelektrische Wandlerschicht, z. B. Zinkoxyd-Schicht 37 (ZnO), aufgebracht und strukturiert. Zusätzlich wird auf diese Schicht 37 als obere Elektrode (vgl. Fig. 5 oben) eine Aluminium-Schicht 38 abgeschieden und ebenfalls strukturiert. Die Aluminium-Schicht 38 ist mit einer Passivierungsschicht 39 abgedeckt. Die beiden Elektroden werden mit Hilfe von Leitungsführungen 35 (z. B. Leiterbahnen) über die Trägerstege 15, 16 hinweg zu entsprechenden Anschlussmetallisierungen auf dem Halbleitersubstrat 1 geführt und damit elektrisch kontaktiert. 
+
+Die Darstellung in Fig. 6 entspricht weitgehend der Darstellung von Fig. 1. Zusätzlich ist hier noch eine Verkapselungseinrichtung 70 angedeutet, innerhalb der das erfindungsgemässe Halbleiterelement angeordnet ist. Eine solche evakuierte Verkapselungseinrichtung 70 dient zur Reduzierung der Luftdämpfung des Halbleiterelementes. 
+
+Anzumerken ist weiter, dass das Resonatorelement, d. h. die Balkenstruktur 10, mit einer zusätzlichen seismischen Masse versehen werden kann. Eine solche zusätzliche Masse ist insbesondere bei der Verwendung des erfindungsgemässen Halbleiterelementes als Beschleunigungssensor vorteilhaft. 
+
+Untersuchungen haben gezeigt, dass eine Balkenlänge von etwa 2 mm und eine Balkenbreite von etwa 120 mu m sehr gute Sensoreigenschaften aufweist. Die Membran 5 sollte etwa 150 mu m dick sein. Bezugszeichenliste 1 Halbleitersubstrat
+2 Oberfläche
+3 Oberfläche
+5 Membran
+6 Grat
+10 Balkenstruktur
+11 ein Ende der Balkenstruktur
+12 anderes Ende der Balkenstruktur
+15 Trägersteg
+16 Trägersteg
+20 Berandungsflächen
+21 Berandungsflächen der Balkenstruktur
+25 Öffnung
+26 Öffnung
+35 Leitungsführung
+36 hochdotierte Halbleiterschicht
+37 Zinkoxyd-Schicht
+38 Aluminium-Schicht
+39 Passivierungs-Schicht
+41 Maskierschicht
+42 Maskierschicht
+44 unmaskierter Bereich
+45 Bereich mit zerstörter Kristallorientierung
+70 Verkapselungseinrichtung
+10a erster Balken
+10b zweiter Balken
+10c dritter Balken
+
+Claims
+1. Monolithisch integriertes Halbleiterelement mit einer über einer Membran angeordneten und auf Trägerstegen sitzenden Balkenstruktur (BOD-Struktur), dadurch gekennzeichnet, dass die Membran (5), die Trägerstege (15, 16) und die Balkenstruktur (10) einstückig aus einem gemeinsamen Halbleitersubstrat (1) gebildet sind und Berandungsflächen (20) aufweisen, die durch unterschiedliche Ätzraten in verschiedenen Kristallorientierungen des Halbleitersubstrates (1) bestimmt sind. 
+
+2. Monolithisch integriertes Halbleiterelement nach Anspruch 1, dadurch gekennzeichnet, dass das Halbleitersubstrat (1) ein einkristallines Siliziumsubstrat ist. 
+
+3.Monolithisch integriertes Halbleiterelement nach Anspruch 2, dadurch gekennzeichnet, dass das einkristalline Siliziumsubstrat eine [110]-Oberflächenkristallorientierung aufweist und die Balkenstruktur (10) längs einer [1@0]-Richtung angeordnet ist. 
+
+4. Monolithisch integriertes Halbleiterelement nach Anspruch 3, dadurch gekennzeichnet, dass die Trägerstege (15, 16) jeweils orthogonal an einem der beiden Enden (11, 12) der Balkenstruktur (10) angeordnet sind. 
+
+5. Monolithisch integriertes Halbleiterelement nach einem der Ansprüche 1 bis 4, dadurch gekennzeichnet, dass die Balkenstruktur (10) mindestens einen Balken mit dreieckförmigem Querschnitt aufweist, der mit zwei 111-Berandungsflächen (21) versehen ist. 
+
+6.Monolithisch integriertes Halbleiterelement nach einem der Ansprüche 1 bis 4, dadurch gekennzeichnet, dass die Balkenstruktur (10) mindestens einen Balken mit trapezförmigem Querschnitt aufweist, der mit zwei gegenüberliegenden 111-Berandungsflächen (21) versehen ist. 
+
+7. Monolithisch integriertes Halbleiterelement nach einem der Ansprüche 1 bis 6, dadurch gekennzeichnet, dass die Balkenstruktur (10) mindestens einen Balken mit in Längsrichtung veränderlichem Querschnitt aufweist. 
+
+8. Monolithisch integriertes Halbleiterelement nach einem der Ansprüche 1 bis 7, dadurch gekennzeichnet, dass auf mindestens einem Balken der Balkenstruktur (10) eine seismische Masse aufgebracht ist. 
+
+9. Monolithisch integriertes Halbleiterelement nach einem der Ansprüche 1 bis 8, dadurch gekennzeichnet, dass die Balkenstruktur (10) aus einem Balken besteht. 
+
+10.Monolithisch integriertes Halbleiterelement nach einem der Ansprüche 1 bis 8, dadurch gekennzeichnet, dass die Balkenstruktur (10) aus mindestens zwei, vorzugsweise vier, zueinander parallel angeordneten Balken (10a, 10b, 10c) besteht. 
+
+11. Monolithisch integriertes Halbleiterelement nach einem der Ansprüche 1 bis 10, dadurch gekennzeichnet, dass die Membran (5), die Trägerstege (15, 16) und die Balkenstruktur (10) innerhalb einer Verkapselungseinrichtung (70) angeordnet sind. 
+
+12. Monolithisch integriertes Halbleiterelement nach einem der Ansprüche 1 bis 11, dadurch gekennzeichnet, dass auf der Balkenstruktur ein Schichtaufbau (36, 37, 38, 39) angeordnet ist, der über eine Leitungsführung (35) kontaktiert wird, die über die Trägerstege (15, 16) nach aussen geführt sind. 
+
+13.Monolithisch integriertes Halbleiterelement nach Anspruch 12, dadurch gekennzeichnet, dass für den Schichtaufbau (36, 37, 38, 39) eine auf der Balkenstruktur (10) versehene hochdotierte Halbleiterschicht (36) und eine darüber angeordnete ZnO- und Al-Schicht (37, 38) und eine Passivierungsschicht (39) vorgesehen sind. 
+
+14. Verwendung des monolithisch integrierten Halbleiterelementes nach einem der Ansprüche 1 bis 13 als Sensor, insbesondere für Druck, Kraft und Beschleunigung, sowie als taktiler Sensor. 
+
+15. Verwendung des monolithisch integrierten Halbleiterelementes nach einem der Ansprüche 1 bis 13 als elektromechanischer Wandler zum Umwandeln von elektrischer Energie in Bewegung der Balkenstruktur (10) und Membran (5) des Halbleiterelementes. 
+
+16.Verfahren zur Herstellung des monolithisch integrierten Halbleiterelementes nach einem der Ansprüche 1 bis 13, gekennzeichnet durch die folgenden Verfahrensschritte: 
+
+- Aufbringung einer Maskierschicht (41, 42) auf gegenüberliegende Oberflächen (2, 3) eines Halbleitersubstrates (1), das eine vorgegebene Oberflächenkristallorientierung aufweist, 
+- gleichmässige, flächige Zerstörung oder teilweise Zerstörung der Kristallstruktur des Halbleitersubstrates (1) ausgehend von einer der Oberflächen (2, 3), um nach einem erfolgten Ätzvorgang eine sich im Halbleitersubstrat (1) ausbildende Membran (5) mit einer darüber angeordneten und auf Trägerstegen (15, 16) sitzenden Balkenstruktur (10) zu erhalten, und 
+- anisotropes Ätzen, bis die Balkenstruktur (10) freigeätzt ist und unter der Balkenstruktur (10) eine Membran (5) mit einer vorgegebenen Dicke verbleibt. 
+
+
+17.Verfahren nach Anspruch 16, dadurch gekennzeichnet, dass die gleichmässige flächige Zerstörung oder teilweise Zerstörung der Kristallstruktur des Halbleitersubstrates (1) mittels Laserstrahlung erfolgt. 
+
+18. Verfahren nach Anspruch 16 oder 17, dadurch gekennzeichnet, dass das anisotrope Ätzen in einer Kaliumhydroxydlösung erfolg 
+
+19. Verfahren nach einem der Ansprüche 16 bis 18, dadurch gekennzeichnet, dass im Halbleitersubstrat (1) ein Testbereich mit einer freizuätzenden weiteren Balkenstruktur vorgesehen ist, welche der Balkenstruktur (10) entspricht, allerdings keine Trägerstege (15, 16) aufweist, und ein Herabfallen der weiteren Balkenstruktur als Signal für die Beendigung des Ätzvorganges herangezogen wird. 
+
+20. Verfahren nach einem der Ansprüche 16 bis 19, dadurch gekennzeichnet, dass nach dem Aufbringen der Maskierschicht (41, 42) auf das Halbleitersubstrat (1) und vor dem Zerstörungsschritt eine Strukturierung der Maskierschicht (41) auf der ersten Oberfläche (2) erfolgt und die Kristallordnung des Halbleitersubstrates (1) in den unmaskierten Bereichen (44) zerstört bzw. teilweise zerstört wird. 
+
+21. Verfahren nach Anspruch 20, dadurch gekennzeichnet, dass die unmaskierten Bereiche (44) vor dem Zerstörungsschritt anisotrop geätzt werden.
+
+cited
+
+PATENTS CITED IN THE SEARCH REPORT 
+ 1.  VERFAHREN ZUR HERSTELLUNG EINER SCHMALEN (100)-ORIENTIERTEN RECHTECKIGEN MEMBRAN AUS MONOKRISTALLINEM SILIZIUM 
+
+	Inventor:
+GERLACH GERALD [DD] 
+KUEHNE SUSANNE [DD] (+1) 	Applicant:
+TELTOV GERAETE REGLER [DD] 	EC:
+B81C1/00E8 
+IPC:
+B81C1/00
+(IPC1-7):G01L9/06
+H01L21/308 	Publication info:
+DD272737 (A1) 
+1989-10-18 	Priority date:
+1988-05-18 
+ 2.  Resonator device. 
+
+	Inventor:
+GREENWOOD JOHN CHRISTOPHER 	Applicant:
+STC PLC [GB] 	EC:
+G01L1/10A
+G01L1/18B4
+(+2) 	IPC:
+G01L1/10
+G01L1/18
+G01L9/00
+(+3) 	Publication info:
+EP0244086 (A2) 
+1987-11-04 
+EP0244086 (A3) 
+1989-07-19 
+EP0244086 (B1) 
+1990-06-13 	Priority date:
+1986-04-26 
+
+Legal status
+Legal status of DE4332653 (C1) 1994-09-01:
+DE	F	4332653   A	(Patent of invention)
+  	PRS Date : 	1994/09/01
+  	PRS Code : 	D1
+  	Code Expl.: 	+   GRANT (NO UNEXAMINED APPLICATION PUBLISHED) PATENT LAW 81
+
+  	PRS Date : 	1994/09/01
+  	PRS Code : 	8100
+  	Code Expl.: 	+   PUBLICATION OF THE EXAMINED APPLICATION WITHOUT PUBLICATION OF UNEXAMINED APPLICATION
+
+  	PRS Date : 	1995/03/02
+  	PRS Code : 	8364
+  	Code Expl.: 	+   NO OPPOSITION DURING TERM OF OPPOSITION
+
+  	PRS Date : 	2000/08/31
+  	PRS Code : 	8327
+  	Code Expl.: 	  CHANGE IN THE PERSON/NAME/ADDRESS OF THE PATENT OWNER
+  	   NEW OWNER : 	ALAVI, MANI, DR., 78050 VILLINGEN-SCHWENNINGEN, DE
+
+  	PRS Date : 	2003/07/03
+  	PRS Code : 	8327
+  	Code Expl.: 	  CHANGE IN THE PERSON/NAME/ADDRESS OF THE PATENT OWNER
+  	   NEW OWNER : 	ALAVI, MANI, DR., 78050 VILLINGEN-SCHWENNINGEN, DE
+
+  	PRS Date : 	2003/07/03
+  	PRS Code : 	8327
+  	Code Expl.: 	  CHANGE IN THE PERSON/NAME/ADDRESS OF THE PATENT OWNER
+  	   NEW OWNER : 	SCHEITHAUER, MANFRED, 78073 BAD DÜRRHEIM, DE
+
+  	PRS Date : 	2003/07/03
+  	PRS Code : 	8327
+  	Code Expl.: 	  CHANGE IN THE PERSON/NAME/ADDRESS OF THE PATENT OWNER
+  	   NEW OWNER : 	FABULA, THOMAS, DR., 50997 KÖLN, DE
+
+  	PRS Date : 	2005/07/14
+  	PRS Code : 	8339
+  	Code Expl.: 	-   CEASED/NON-PAYMENT OF THE ANNUAL FEE
+
+
+Patent family
+1 application(s) for: DE4332653 (C1) 
+ 1.  Monolithically integrated semiconductor element, use thereof and method for producing such a semiconductor element 
+
+	Inventor:
+ALAVI MANI DIPL ING DR [DE] 
+FABULA THOMAS DIPL PHYS [DE] (+2) 	Applicant:
+HAHN SCHICKARD GES [DE] 	EC:
+G01L9/00A10D
+G01L9/00D1
+(+6) 	IPC:
+G01L9/00
+G01P15/08
+G01P15/09
+(+7) 	Publication info:
+DE4332653 (C1) 
+1994-09-01 	
+
