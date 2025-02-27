@@ -32,7 +32,8 @@
 - SCHEITHAUER, Manfred, Dipl.-Phys., 78073 Bad Dürrheim, DE
 
 ## Application number	
-- DE19934332653 1993-09-24 
+- DE19934332653
+- 1993-09-24 
 
 ## Abstract 
 ### Patent DE4332653 (C1)
