@@ -1,0 +1,10 @@
+M. Alavi, Th. Fabula, A. Schumacher, H.-J. Wagner,
+Monolithic microbridges in silicon using laser machining and anisotropic etching,
+Sensors and Actuators A: Physical,
+Volumes 37–38,
+1993,
+Pages 661-665,
+ISSN 0924-4247,
+https://doi.org/10.1016/0924-4247(93)80112-T.
+(https://www.sciencedirect.com/science/article/pii/092442479380112T)
+Abstract: Microbridges in silicon can be used as resonating elements for the realization of mechanical sensors. A method for the fabrication of monolithic microbridges in silicon with triangular cross sections and a thickness up to 200 μm is presented. This method combines laser machining with wet anisotropic etching. The principle of this technique is based on the local destruction of limiting {111} crystal planes by laser melting and anisotropic etching of the molten zones. The geometry of the microbridges produced by this method in (110 > silicon wafers is determined by the parameters of the masking layer and the laser beam. Finite element analysis is used to estimate the static and dynamic behavior of the triangular microbridges with regard to their application as resonators of micromechanical force or pressure sensors. The results of analytical and numerical calculations were experimentally verified by means of laser Doppler technique.
