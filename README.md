@@ -9,7 +9,7 @@
 - Monolithically integrated semiconductor element, use thereof and method for producing such a semiconductor element
 ### DEUTSCH
 - Monolithisch integriertes Halbleiterelement, dessen Verwendung sowie Verfahren zur Herstellung eines solchen Halbleiterelements
-### Invention No: 
+### Invention No 
 - DE4332653 (C1)
 
 ## Espacenet 
@@ -54,5 +54,3 @@ Das monolithisch integrierte Halbleiterelement hat eine über einer Membran ange
 - https://dl.acm.org/doi/abs/10.1007/BF01371494
 - https://www.sciencedirect.com/science/article/abs/pii/092442479380112T
  
-
-
