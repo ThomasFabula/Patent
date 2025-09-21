@@ -9,6 +9,9 @@
 - Monolithically integrated semiconductor element, use thereof and method for producing such a semiconductor element
 ### DEUTSCH
 - Monolithisch integriertes Halbleiterelement, dessen Verwendung sowie Verfahren zur Herstellung eines solchen Halbleiterelements
+### FRANCAIS
+- Elément semi-conducteur intégré monolithique, son utilisation et procédé de fabrication d'un tel élément semi-conducteur
+
 ### Invention No 
 - DE4332653 (C1)
 
