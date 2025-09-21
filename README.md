@@ -57,7 +57,7 @@ L'élément semi-conducteur intégré de manière monolithique présente une str
 - https://tfconsult.com/silicon-bod-structures/
 - https://tfconsult.com/monolithic-bod-structure/
 - https://patents.google.com/patent/DE4332653C1/un
-- https://link.springer.com/article/10.1007/BF01371494#page-1
+- https://link.springer.com/article/10.1007/BF01371494
 - https://dl.acm.org/doi/abs/10.1007/BF01371494
 - https://www.sciencedirect.com/science/article/abs/pii/092442479380112T
  
