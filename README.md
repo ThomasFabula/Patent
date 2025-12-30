@@ -60,4 +60,5 @@ L'élément semi-conducteur intégré de manière monolithique présente une str
 - https://link.springer.com/article/10.1007/BF01371494
 - https://dl.acm.org/doi/abs/10.1007/BF01371494
 - https://www.sciencedirect.com/science/article/abs/pii/092442479380112T
+- https://github.com/ThomasFabula/BOD-sensor
  
