@@ -1,0 +1,50 @@
+Summary and Explanation of the Described Semiconductor Device 
+
+Description of a MEMS (Micro-Electro-Mechanical System) structure. 
+
+This refers to German Patent DE 4332653 C1 (published in 1995). 
+
+patents.google.com
+
+Core of the Invention
+A monolithically integrated semiconductor element is described, in which the following structures are 
+fabricated in a single piece from a single silicon wafer: A thin membrane (diaphragm)
+- A beam structure (beam/web) arranged above it
+- The beams rest on support beams (support beams/anchors)
+
+Distinctive Feature 
+All elements (diaphragm + support beams + beams) are monolithically (without gluing, bonding, or separate assembly) 
+fabricated from a single monocrystalline silicon substrate. The edges and surfaces are formed by anisotropic 
+etching, which exhibits significantly different etching rates depending on the crystal orientation.
+
+Fabrication Process (brief)
+Masking on both sides of a silicon substrate with a defined crystal orientation.
+Altering the crystal structure (e.g., through implantation or other methods to selectively influence the etch rate).
+Anisotropic wet etching (typically with KOH or TMAH). Etching continues until the support beams are exposed.
+
+A defined thin membrane remains beneath the webs.
+
+Particularly suitable: monocrystalline silicon with <110> surface orientation. This orientation allows for specific 
+geometric shapes (vertical walls or special angles) that are not as easily achievable with <100> wafers. 
+
+people.eecs.berkeley.edu
+
+Advantages of this design
+Very good mechanical coupling between the beams and the membrane (no adhesive joints or bonded connections → higher 
+reliability and reproducibility).
+Precisely defined geometries due to crystallographically determined etching stops ({111} planes etch extremely slowly).
+Suitable as a sensor (e.g., pressure sensor, accelerometer, resonator) or electromechanical transducer (actuator).
+
+Typical applications of such structures: piezoresistive or capacitive sensors
+- Microphones
+- Resonance sensors (mass or force sensors)
+- AFM cantilever-like structures on a membrane
+
+Technical Background
+In the anisotropic etching of silicon (e.g., with KOH), the following applies:
+{111} planes are hardly etched at all → natural etch stops.
+<110> wafers enable vertical or steep sidewalls and complex cantilevered structures.
+
+The additional “planar destruction or partial destruction of the crystal structure” (e.g., through ion implantation) 
+likely serves to locally control the etch rate in order to precisely achieve the desired membrane thickness and the 
+exposure of the beams.
