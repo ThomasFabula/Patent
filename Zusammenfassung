@@ -5,21 +5,25 @@ Es handelt sich um das deutsche Patent DE 4332653 C1 (veröffentlicht 1995).
 
 patents.google.com
 
-Kern der ErfindungEs wird ein monolithisch integriertes Halbleiterelement beschrieben, bei dem folgende Strukturen aus einem einzigen 
-Silizium-Wafer in einem Stück gefertigt werden:Eine dünne Membran (Diaphragma)
-Darüber angeordnete Balkenstruktur (Beam / Steg)
-Die Balken ruhen auf Trägerstegen (Support beams / Anchors)
+Kern der Erfindung
+Es wird ein monolithisch integriertes Halbleiterelement beschrieben, bei dem folgende Strukturen aus 
+einem einzigen Silizium-Wafer in einem Stück gefertigt werden:Eine dünne Membran (Diaphragma)
+- Darüber angeordnete Balkenstruktur (Beam / Steg)
+- Die Balken ruhen auf Trägerstegen (Support beams / Anchors)
 
-Besonderheit: Alle Elemente (Membran + Trägerstege + Balken) sind monolithisch (ohne Kleben, Bonden oder separate Montage) aus einem 
-monokristallinen Silizium-Substrat hergestellt. Die Kanten und Flächen entstehen durch die anisotrope Ätzung, die je nach Kristallrichtung
-stark unterschiedliche Ätzraten aufweist.Herstellungsverfahren (kurz)Maskierung beidseitig auf einem Silizium-Substrat mit definierter
-Kristallorientierung.
+Besonderheit 
+Alle Elemente (Membran + Trägerstege + Balken) sind monolithisch (ohne Kleben, Bonden oder separate Montage) 
+aus einem monokristallinen Silizium-Substrat hergestellt. Die Kanten und Flächen entstehen durch die anisotrope 
+Ätzung, die je nach Kristallrichtung stark unterschiedliche Ätzraten aufweist.
+
+Herstellungsverfahren (kurz)
+Maskierung beidseitig auf einem Silizium-Substrat mit definierter Kristallorientierung.
 Schädigung der Kristallstruktur (z. B. durch Implantation oder andere Methoden zur gezielten Beeinflussung der Ätzrate).
 Anisotropes Nassätzen (typischerweise mit KOH oder TMAH).Das Ätzen läuft bis die Trägerstege freigelegt sind.
 Unter den Stegen bleibt eine definierte dünne Membran stehen.
 
-Besonders geeignet: Monokristallines Silizium mit <110>-Oberflächenorientierung. Diese Orientierung erlaubt spezielle geometrische 
-Formen (senkrechte Wände oder besondere Winkel), die bei <100>-Wafern nicht so einfach möglich sind. 
+Besonders geeignet: Monokristallines Silizium mit <110>-Oberflächenorientierung. Diese Orientierung erlaubt spezielle 
+geometrische Formen (senkrechte Wände oder besondere Winkel), die bei <100>-Wafern nicht so einfach möglich sind. 
 
 people.eecs.berkeley.edu
 
@@ -30,15 +34,18 @@ Präzise definierte Geometrien durch kristallographisch bedingte Ätzstopps ({11
 Geeignet als Sensor (z. B. Drucksensor, Beschleunigungssensor, Resonator) oder elektromechanischer Wandler (Aktuator).
 
 Typische Anwendungen solcher Strukturen:Piezo-resistive oder kapazitive Sensoren
-Mikrophone
-Resonanz-Sensoren (Masse- oder Kraftsensoren)
-AFM-Kantilever-ähnliche Strukturen auf Membran
+- Mikrophone
+- Resonanz-Sensoren (Masse- oder Kraftsensoren)
+- AFM-Kantilever-ähnliche Strukturen auf Membran
 
 Technischer Hintergrund
-Beim anisotropen Ätzen von Silizium (z. B. mit KOH) gilt:{111}-Ebenen werden fast nicht geätzt → natürliche Ätzstopps.
+Beim anisotropen Ätzen von Silizium (z. B. mit KOH) gilt:
+{111}-Ebenen werden fast nicht geätzt → natürliche Ätzstopps.
 <110>-Wafer ermöglichen vertikale oder steile Seitenwände und komplexe freitragende Strukturen.
 
-Die zusätzliche „planare Zerstörung oder teilweise Zerstörung der Kristallstruktur“ (z.B. durch Ionenimplantation) dient wahrscheinlich dazu,
-die Ätzrate lokal zu steuern, um die gewünschte Membrandicke und die Freilegung der Balken präzise zu erreichen.
+Die zusätzliche „planare Zerstörung oder teilweise Zerstörung der Kristallstruktur“ (z.B. durch Ionenimplantation) 
+dient wahrscheinlich dazu, die Ätzrate lokal zu steuern, um die gewünschte Membrandicke und die Freilegung der 
+Balken präzise zu erreichen.
+
 
 
